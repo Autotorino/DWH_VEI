@@ -1,0 +1,89 @@
+{
+  "itemId" : "_x8T3wLUBEemNDs0E51zBKw",
+  "contextList" : [ {
+    "contextName" : "dev",
+    "repoId" : "_McuX8KloEemvdbMxCJroiw",
+    "parameterList" : [ {
+      "id" : "_FEneZWb4EeuP9uzRGTdIrA",
+      "name" : "RETENTION_BACKUP_FILE"
+    }, {
+      "id" : "_FEneZmb4EeuP9uzRGTdIrA",
+      "name" : "ORACLE_CLOUD_Url"
+    }, {
+      "id" : "_FEneZ2b4EeuP9uzRGTdIrA",
+      "name" : "ORACLE_CLOUD_Password"
+    }, {
+      "id" : "_FEneaGb4EeuP9uzRGTdIrA",
+      "name" : "ORACLE_CLOUD_Username"
+    }, {
+      "id" : "_FEneaWb4EeuP9uzRGTdIrA",
+      "name" : "TALEND_PATH_FILE_CSV"
+    }, {
+      "id" : "_FEneamb4EeuP9uzRGTdIrA",
+      "name" : "SIPADX_DB_Server"
+    }, {
+      "id" : "_FEnea2b4EeuP9uzRGTdIrA",
+      "name" : "SIPADX_DB_Port"
+    }, {
+      "id" : "_FEnebGb4EeuP9uzRGTdIrA",
+      "name" : "SIPADX_DB_Database"
+    }, {
+      "id" : "_FEnebWb4EeuP9uzRGTdIrA",
+      "name" : "SIPADX_DB_Login"
+    }, {
+      "id" : "_FEnebmb4EeuP9uzRGTdIrA",
+      "name" : "SIPADX_DB_Password"
+    }, {
+      "id" : "_FEneb2b4EeuP9uzRGTdIrA",
+      "name" : "SIPADX_DB_Schema"
+    }, {
+      "id" : "_FEnecGb4EeuP9uzRGTdIrA",
+      "name" : "DWH_AT_MAIL_NOTIFY"
+    }, {
+      "id" : "_FEnecWb4EeuP9uzRGTdIrA",
+      "name" : "DWH_AT_MAIL_SMTP_HOST"
+    }, {
+      "id" : "_FEnecmb4EeuP9uzRGTdIrA",
+      "name" : "DWH_AT_MAIL_SMTP_PORT"
+    }, {
+      "id" : "_FEnec2b4EeuP9uzRGTdIrA",
+      "name" : "DWH_AT_MAIL_SMTP_USER"
+    }, {
+      "id" : "_FEnedGb4EeuP9uzRGTdIrA",
+      "name" : "DWH_AT_MAIL_SMTP_PWD"
+    }, {
+      "id" : "_FEnedWb4EeuP9uzRGTdIrA",
+      "name" : "DWH_AT_MAIL_SMTP_DEST"
+    }, {
+      "id" : "_CGBM4mb9EeuP9uzRGTdIrA",
+      "name" : "TALEND_PATH_LOG"
+    }, {
+      "id" : "_cIGyYnzNEeuQPdwpQjXajw",
+      "name" : "RESERVATION_PROCESS_ID"
+    }, {
+      "id" : "_NxuqIqzaEeuYf6kx7qbMqA",
+      "name" : "DECODIFICHE_EXTRA_PATH"
+    }, {
+      "id" : "_NxuqI6zaEeuYf6kx7qbMqA",
+      "name" : "DECODIFICHE_EXTRA_NOME_FILE"
+    }, {
+      "id" : "_2Kq-pKzsEeuYf6kx7qbMqA",
+      "name" : "EUROTAX_SFTP_HOST"
+    }, {
+      "id" : "_2Kq-pazsEeuYf6kx7qbMqA",
+      "name" : "EUROTAX_SFTP_PORT"
+    }, {
+      "id" : "_2Kq-pqzsEeuYf6kx7qbMqA",
+      "name" : "EUROTAX_SFTP_USER"
+    }, {
+      "id" : "_2Kq-p6zsEeuYf6kx7qbMqA",
+      "name" : "EUROTAX_SFTP_PASSWORD"
+    }, {
+      "id" : "_5hUYEqzxEeuYf6kx7qbMqA",
+      "name" : "EUROTAX_CARS_FILE_NAME"
+    }, {
+      "id" : "_5hUYE6zxEeuYf6kx7qbMqA",
+      "name" : "EUROTAX_LCV_FILE_NAME"
+    } ]
+  } ]
+}
