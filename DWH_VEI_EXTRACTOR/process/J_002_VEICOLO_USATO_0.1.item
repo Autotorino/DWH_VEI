@@ -2,14 +2,14 @@
   <context confirmationNeeded="false" name="prod">
     <contextParameter comment="" internalId="_1EbkYDqUEe24lfQKFhQ61Q" name="RETENTION_BACKUP_FILE" prompt="RETENTION_BACKUP_FILE?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Integer" value="3"/>
     <contextParameter comment="" internalId="_1EbkYTqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="jdbc:oracle:thin:@autotorinodwh_medium?TNS_ADMIN=E:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh"/>
-    <contextParameter comment="" internalId="_1EbkYjqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:Ce+sHijeWpxfao6/GevQ19gvtw+Jl6CehpbDBnGu7+v+HqrfiEWeOQzC"/>
+    <contextParameter comment="" internalId="_1EbkYjqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:kgoVohNTak4iHK2B3+ICbeipYRObqwOLpYl4tLF50AMoB4eHXLT5qO7w"/>
     <contextParameter comment="" internalId="_1EbkYzqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="DI_DATA_CONFIG"/>
     <contextParameter comment="" internalId="_1EbkZDqUEe24lfQKFhQ61Q" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="E:/Talend/Talend-Output/DataSource/DWH_VEI/StorageFisico/"/>
     <contextParameter comment="" internalId="_1EbkZTqUEe24lfQKFhQ61Q" name="SIPADX_DB_Server" prompt="SIPADX_DB_Server?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="192.168.1.113"/>
     <contextParameter comment="" internalId="_1EbkZjqUEe24lfQKFhQ61Q" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="5432"/>
     <contextParameter comment="" internalId="_1EbkZzqUEe24lfQKFhQ61Q" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="sipadx?ssl=true&amp;sslfactory=org.postgresql.ssl.NonValidatingFactorysipadx?ssl=true&amp;sslfactory=org.postgresql.ssl.NonValidatingFactory&amp;socketTimeout=0"/>
     <contextParameter comment="" internalId="_1EbkaDqUEe24lfQKFhQ61Q" name="SIPADX_DB_Login" prompt="SIPADX_DB_Login?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="userread"/>
-    <contextParameter comment="" internalId="_1EbkaTqUEe24lfQKFhQ61Q" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:YZZ5M9wzGvuK93IBxIXc+odssk3sgz5s8qllaTyOWXIfo9Yv"/>
+    <contextParameter comment="" internalId="_1EbkaTqUEe24lfQKFhQ61Q" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:0gIXkEbP8tv11pcdCc0LyAb3ETidYL4IIGTQsNCnmRTfzX4Y"/>
     <contextParameter comment="" internalId="_1EbkajqUEe24lfQKFhQ61Q" name="SIPADX_DB_Schema" prompt="SIPADX_DB_Schema?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="public"/>
     <contextParameter comment="" internalId="_1EbkazqUEe24lfQKFhQ61Q" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="true"/>
     <contextParameter comment="" internalId="_1EbkbDqUEe24lfQKFhQ61Q" name="DWH_AT_MAIL_SMTP_HOST" prompt="DWH_AT_MAIL_SMTP_HOST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="smtp.autotorino.local"/>
@@ -24,21 +24,21 @@
     <contextParameter comment="" internalId="_1EbkdTqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_HOST" prompt="EUROTAX_SFTP_HOST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="212.78.2.126"/>
     <contextParameter comment="" internalId="_1EbkdjqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PORT" prompt="EUROTAX_SFTP_PORT?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Integer" value="21"/>
     <contextParameter comment="" internalId="_1EbkdzqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_USER" prompt="EUROTAX_SFTP_USER?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="autotorino"/>
-    <contextParameter comment="" internalId="_1EbkeDqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PASSWORD" prompt="EUROTAX_SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:zKeRndtV3M0302sE7YXq3ESO5UslUfUq4K0cAHXYlmNqGUYLn3tjdcQ="/>
+    <contextParameter comment="" internalId="_1EbkeDqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PASSWORD" prompt="EUROTAX_SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:fzDbhm6yFNPUVbUIT3MFkchwvjlEIi4NqEeBFKd/8NqbpolOPeeQjyE="/>
     <contextParameter comment="" internalId="_1EbkeTqUEe24lfQKFhQ61Q" name="EUROTAX_CARS_FILE_NAME" prompt="EUROTAX_CARS_FILE_NAME?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="auto.csv"/>
     <contextParameter comment="" internalId="_1EbkejqUEe24lfQKFhQ61Q" name="EUROTAX_LCV_FILE_NAME" prompt="EUROTAX_LCV_FILE_NAME?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="vcom.csv"/>
   </context>
   <context confirmationNeeded="false" name="dev">
     <contextParameter comment="" internalId="_1EbkezqUEe24lfQKFhQ61Q" name="RETENTION_BACKUP_FILE" prompt="RETENTION_BACKUP_FILE?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Integer" value="3"/>
     <contextParameter comment="" internalId="_1EbkfDqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="jdbc:oracle:thin:@dwhautosvil_medium?TNS_ADMIN=E:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh"/>
-    <contextParameter comment="" internalId="_1EbkfTqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:kYSnk7PAK9WnKhzrGEgsMoK+d21iWOY5JDql+MtQcY/LQtPWVkHRIoDV"/>
+    <contextParameter comment="" internalId="_1EbkfTqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:25x1+v/BxCjwk50zx+Fe+bVq/W2h7RkL1vntdejTgct/AEmZCeanOgcJ"/>
     <contextParameter comment="" internalId="_1EbkfjqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="DI_DATA_CONFIG"/>
     <contextParameter comment="" internalId="_1EbkfzqUEe24lfQKFhQ61Q" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="E:/Talend/Talend-Output/DataSource/DWH_VEI/StorageFisico/"/>
     <contextParameter comment="" internalId="_1EbkgDqUEe24lfQKFhQ61Q" name="SIPADX_DB_Server" prompt="SIPADX_DB_Server?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="192.168.1.113"/>
     <contextParameter comment="" internalId="_1EbkgTqUEe24lfQKFhQ61Q" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="5432"/>
     <contextParameter comment="" internalId="_1EbkgjqUEe24lfQKFhQ61Q" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="sipadx?ssl=true&amp;sslfactory=org.postgresql.ssl.NonValidatingFactorysipadx?ssl=true&amp;sslfactory=org.postgresql.ssl.NonValidatingFactory&amp;socketTimeout=0"/>
     <contextParameter comment="" internalId="_1EbkgzqUEe24lfQKFhQ61Q" name="SIPADX_DB_Login" prompt="SIPADX_DB_Login?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="userread"/>
-    <contextParameter comment="" internalId="_1EbkhDqUEe24lfQKFhQ61Q" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:6CA7G4ZaxO88a7+Ot9oktt/Y+g52kRXUXHHrKFp90noenzpb"/>
+    <contextParameter comment="" internalId="_1EbkhDqUEe24lfQKFhQ61Q" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:ENWz3VluU0WLomM+WkczgLDnpEVax8oBOB4/dKhk4IBdWmAB"/>
     <contextParameter comment="" internalId="_1EbkhTqUEe24lfQKFhQ61Q" name="SIPADX_DB_Schema" prompt="SIPADX_DB_Schema?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="public"/>
     <contextParameter comment="" internalId="_1EbkhjqUEe24lfQKFhQ61Q" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="true"/>
     <contextParameter comment="" internalId="_1EbkhzqUEe24lfQKFhQ61Q" name="DWH_AT_MAIL_SMTP_HOST" prompt="DWH_AT_MAIL_SMTP_HOST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="smtp.autotorino.local"/>
@@ -53,21 +53,21 @@
     <contextParameter comment="" internalId="_1EbkkDqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_HOST" prompt="EUROTAX_SFTP_HOST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="212.78.2.126"/>
     <contextParameter comment="" internalId="_1EbkkTqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PORT" prompt="EUROTAX_SFTP_PORT?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Integer" value="21"/>
     <contextParameter comment="" internalId="_1EbkkjqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_USER" prompt="EUROTAX_SFTP_USER?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="autotorino"/>
-    <contextParameter comment="" internalId="_1EbkkzqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PASSWORD" prompt="EUROTAX_SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:ho4nmSr/LsI+qiU3cjieR9+rGqGqqpS9DSeaGDllNzS3aVeGy1DBROc="/>
+    <contextParameter comment="" internalId="_1EbkkzqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PASSWORD" prompt="EUROTAX_SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:vWGQs+QLCpUSFU9em7LdGIMN6ffWyEpacWGd5MywvlkLKH4U6AGM3l0="/>
     <contextParameter comment="" internalId="_1EbklDqUEe24lfQKFhQ61Q" name="EUROTAX_CARS_FILE_NAME" prompt="EUROTAX_CARS_FILE_NAME?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="auto.csv"/>
     <contextParameter comment="" internalId="_1EbklTqUEe24lfQKFhQ61Q" name="EUROTAX_LCV_FILE_NAME" prompt="EUROTAX_LCV_FILE_NAME?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="vcom.csv"/>
   </context>
   <context confirmationNeeded="false" name="Default">
     <contextParameter comment="" internalId="_1EbkljqUEe24lfQKFhQ61Q" name="RETENTION_BACKUP_FILE" prompt="RETENTION_BACKUP_FILE?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Integer" value="3"/>
     <contextParameter comment="" internalId="_1EbklzqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="jdbc:oracle:thin:@dwhautosvil_medium?TNS_ADMIN=C:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh"/>
-    <contextParameter comment="" internalId="_1EbkmDqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:ECB8qvAD11ll026vDC+11lyueg42x5nvbYPXZTTADrd5IoeBeN/I21Zc"/>
+    <contextParameter comment="" internalId="_1EbkmDqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:mgy0B8cmJtylDZErJmQrC9e4y2kQkVWpYsvgzZKYmbZx5R+pv8z0VI2T"/>
     <contextParameter comment="" internalId="_1EbkmTqUEe24lfQKFhQ61Q" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="DI_DATA_CONFIG"/>
     <contextParameter comment="" internalId="_1EbkmjqUEe24lfQKFhQ61Q" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="C:/Talend/Talend-Output/DataSource/DWH_VEI/StorageFisico/"/>
     <contextParameter comment="" internalId="_1EbkmzqUEe24lfQKFhQ61Q" name="SIPADX_DB_Server" prompt="SIPADX_DB_Server?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="192.168.1.113"/>
     <contextParameter comment="" internalId="_1EbknDqUEe24lfQKFhQ61Q" name="SIPADX_DB_Port" prompt="SIPADX_DB_Port?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="5432"/>
     <contextParameter comment="" internalId="_1EbknTqUEe24lfQKFhQ61Q" name="SIPADX_DB_Database" prompt="SIPADX_DB_Database?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="sipadx?ssl=true&amp;sslfactory=org.postgresql.ssl.NonValidatingFactorysipadx?ssl=true&amp;sslfactory=org.postgresql.ssl.NonValidatingFactory&amp;socketTimeout=0"/>
     <contextParameter comment="" internalId="_1EbknjqUEe24lfQKFhQ61Q" name="SIPADX_DB_Login" prompt="SIPADX_DB_Login?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="userread"/>
-    <contextParameter comment="" internalId="_1EbknzqUEe24lfQKFhQ61Q" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:6HrobmUIEOH632REZt6lhHQyGzzTkc0Zac7siutR3Kh9RvsZ"/>
+    <contextParameter comment="" internalId="_1EbknzqUEe24lfQKFhQ61Q" name="SIPADX_DB_Password" prompt="SIPADX_DB_Password?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:OkanCnoERA2G0SZxCSaNRjC2cr11mJxSJnvePlWY9/yhbeFf"/>
     <contextParameter comment="" internalId="_1EbkoDqUEe24lfQKFhQ61Q" name="SIPADX_DB_Schema" prompt="SIPADX_DB_Schema?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="public"/>
     <contextParameter comment="" internalId="_1EbkoTqUEe24lfQKFhQ61Q" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="true"/>
     <contextParameter comment="" internalId="_1EbkojqUEe24lfQKFhQ61Q" name="DWH_AT_MAIL_SMTP_HOST" prompt="DWH_AT_MAIL_SMTP_HOST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="smtp.autotorino.local"/>
@@ -82,7 +82,7 @@
     <contextParameter comment="" internalId="_1EbkqzqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_HOST" prompt="EUROTAX_SFTP_HOST?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="212.78.2.126"/>
     <contextParameter comment="" internalId="_1EbkrDqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PORT" prompt="EUROTAX_SFTP_PORT?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Integer" value="21"/>
     <contextParameter comment="" internalId="_1EbkrTqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_USER" prompt="EUROTAX_SFTP_USER?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="autotorino"/>
-    <contextParameter comment="" internalId="_1EbkrjqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PASSWORD" prompt="EUROTAX_SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:beDgqN41Bit2s4uSIMsjCypuGOvNP0FJTzjlvMAWXnT2tYm7eTIlX+I="/>
+    <contextParameter comment="" internalId="_1EbkrjqUEe24lfQKFhQ61Q" name="EUROTAX_SFTP_PASSWORD" prompt="EUROTAX_SFTP_PASSWORD?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_Password" value="enc:system.encryption.key.v1:MOrG/8klEg7/n261TYTMCyB74gRSc4crXxGn08yMv/ixBqQ/EuvxXyM="/>
     <contextParameter comment="" internalId="_1EbkrzqUEe24lfQKFhQ61Q" name="EUROTAX_CARS_FILE_NAME" prompt="EUROTAX_CARS_FILE_NAME?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="auto.csv"/>
     <contextParameter comment="" internalId="_1EbksDqUEe24lfQKFhQ61Q" name="EUROTAX_LCV_FILE_NAME" prompt="EUROTAX_LCV_FILE_NAME?" promptNeeded="false" repositoryContextId="_McuX8KloEemvdbMxCJroiw" type="id_String" value="vcom.csv"/>
   </context>
@@ -131,7 +131,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:I0cVHeSOQkg5VppGVf7qB3m9H4kTnw/J9kdBDSob"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:YKSpClyfqIqYHKjwZ+bLXBq3emM6dTSl8k35qHEF"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -166,7 +166,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:0FxAKVIudgUFaLAWcL6bzZPohPNwJhRE3KQsvMgK"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:vzC3w0fQJV0ztt8BQXBQo/8A/dSN5Tcva3jIT1S6"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -212,13 +212,13 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.SIPADX_DB_Database"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="context.SIPADX_DB_Schema"/>
     <elementParameter field="TEXT" name="USER" value="context.SIPADX_DB_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:hAz/x5iKr5FcGzXKmZCbHWKKtmf230Oi9bhukNmRsKN4ztQAkNlIAe3qjk2I8f7imPhEi2R/"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:GzwLuMyZ4feAxKjT3Yh/Ia7PxlbrsHfE7oacFsHb/JL8NfQLpysX/TtZtc9Oh1QhsNcTqfZK"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:QUERYSTORE_TYPE" value="BUILT_IN"/>
     <elementParameter field="GUESS_SCHEMA" name="GUESS_SCHEMA" value="&quot;&quot;"/>
-    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;select &#13;&#10;tblveuanveicoli001.idveicolo,&#13;&#10;tblveuanveicoli001.telaio,&#13;&#10;tblveuanveicoli001.tarattuale &#9;&#9;&#9;&#9;as targa,&#13;&#10;'101'&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;as marchio_id,&#13;&#10;tblveuanveicoli001.desmarca&#9;&#9;&#9;&#9;&#9;as marca,&#13;&#10;tblveuanveicoli001.desmodello&#9;&#9;&#9;&#9;as modello,&#13;&#10;tblveuanveicoli001.desversione&#9;&#9;&#9;&#9;as versione,&#13;&#10;case when tblveuversioni001.idversione is null &#13;&#10;                then tblveuanveicoli001.idversione&#9;&#9;&#9;&#9;&#9;&#9;&#13;&#10;                else tblveuversioni001.idmarca || '|' || tblveuversioni001.idmodello || '|' || tblveuversioni001.idversione &#13;&#10;end&#9;&#9;&#9;as idversione,&#13;&#10;tblveuanveicoli001.idalimentazione,&#13;&#10;tblveuanveicoli001.cilindrata,&#13;&#10;tblveuanveicoli001.cavalli,&#13;&#10;tblveuanveicoli001.cavfiscali,&#13;&#10;tblveuanveicoli001.kilowatt,&#13;&#10;tblveuanveicoli001.idcambio&#9;&#9;&#9;&#9;&#9;as cambio,&#13;&#10;tblveuanveicoli001.idbodstyle,&#13;&#10;tblveusegmenti001.descrizione &#9;&#9;&#9;&#9;as segmento,&#13;&#10;tblveuanveicoli001.idstato,&#13;&#10;/*flcommerciale=6,7,8 -&gt; Remarketing, iddescommerciale = 5 -&gt; Speciali, altrimenti Usato*/&#13;&#10;tblveuanveicoli001.flcommerciale,&#13;&#10;case &#9;when tblveuanveicoli001.flcommerciale in (6,7,8) then 'REMARKETING'&#13;&#10;&#9;&#9;    when tblveuanveicoli001.iddescommerciale = 5 &#9; then 'SPECIALI'&#13;&#10;&#9;&#9;else 'USATO'&#13;&#10;end &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;as tipo_vendita,&#13;&#10;case &#9;when tblveuanveicoli001.flcommerciale = 1 then 'EXTRA COMM.'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 2 then 'DEMO'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 6 then 'KM 0'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 7 then 'AZIENDALE'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 8 then 'REMARKETING'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 9 then 'BUY BACK'&#13;&#10;&#9;&#9;else 'GENERICO'&#13;&#10;end &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;as tipo_veicolo, /*Campo &lt;Categoria&gt; della scheda veicolo*/&#13;&#10;tblveuanveicoli001.iddescommerciale,&#13;&#10;case &#9;when tblveuanveicoli001.iddescommerciale = 4  &#9; then 'COMMERCIANTE'&#13;&#10;&#9;&#9;when tblveuanveicoli001.iddescommerciale = 5 &#9; then 'FLOTTE'&#13;&#10;&#9;&#9;else 'RETAIL'&#13;&#10;end&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;as tipo_cliente,&#13;&#10;tblveudescommerciali001.descrizione &#9;&#9;AS descommerciale,&#13;&#10;tblveuanveicoli001.fldisvendita,&#13;&#10;tblveuanveicoli001.datprimmatricolazione&#9;as datimmatricolazione,&#13;&#10;tblveuanveicoli001.km,&#13;&#10;tblveuanveicoli001.kmeffettivi,&#13;&#10;tblveuanveicoli001.idsede &#9;&#9;&#9;&#9;&#9;AS ritiro_idsede,&#13;&#10;tblveuanveicoli001.idvenditore &#9;&#9;&#9;&#9;AS ritiro_idvenditore,&#13;&#10;tblveuritiro001.valritiro&#9;&#9;&#9;&#9;&#9;as ritiro_valore,&#13;&#10;tblveuanveicoli001.idcauritiro&#9;&#9;&#9;&#9;as ritiro_idcausale,&#13;&#10;tbldfncausali001.descrizione           as ritiro_causale, -- &#13;&#10;tblcntcodiva001.aliquota&#9;&#9;&#9;&#9;&#9;as ritiro_iva,&#13;&#10;tblveuanveicoli001.datprritiro&#9;&#9;&#9;&#9;as ritiro_datprevista,&#13;&#10;tblveuritiro001.datritiro&#9;&#9;&#9;&#9;&#9;as ritiro_data,&#13;&#10;tblveuanveicoli001.imdanveicolo&#9;&#9;&#9;&#9;as ritiro_importoperizia,&#13;&#10;tblveuanveicoli001.imritdanveicolo  &#9;&#9;as ritiro_importocontroperizia,&#13;&#10;case when tblveuanveicoli001.idmovenstatistico = 0 then '0_Non definito'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 1 then '1_Ex-TTHolding'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 2 then '2_Acquisto diretto da privato'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 4 then '4_Acquisto diretto commerciale'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 9 then '9_Acquisto diretto da casa madre'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 11 then '12_Permuta ufficio acquisti'&#13;&#10;else 'Non valorizzato' end as codice_statistica_entrata,&#13;&#10;tblveuritiro001.datfatvendita&#9;&#9;&#9;&#9;as data_fattura_acquisto, --&#13;&#10;tblveuritiro001.numfatvendita&#9;&#9;&#9;&#9;as fattura_acquisto, --&#13;&#10;tblveuanveicoli001.previstorealizzo,&#13;&#10;tblveuanveicoli001.prconacquisto&#9;&#9;&#9;as prezzo_concordato,&#13;&#10;tblveuanveicoli001.sys_datulmodifica&#9;&#9;as datmodif_veuanveicoli,&#13;&#10;tblveuritiro001.sys_datulmodifica&#9;&#9;&#9;as datmodif_veuritiro,&#13;&#10;tblveudescommerciali001.sys_datulmodifica&#9;as datmodif_veudescommerciali,&#13;&#10;tblveusegmenti001.sys_datulmodifica&#9;&#9;&#9;as datmodif_veusegmenti,&#13;&#10;tblcntcodiva001.sys_datulmodifica&#9;&#9;&#9;as datmodif_cntcodiva&#13;&#10;from tblveuanveicoli001&#13;&#10;left join tblveusegmenti001 on tblveuanveicoli001.idsegmento = tblveusegmenti001.idsegmento&#13;&#10;left join tblveudescommerciali001 on tblveuanveicoli001.iddescommerciale = tblveudescommerciali001.iddescommerciale&#13;&#10;left join tblcntcodiva001 on tblveuanveicoli001.codivaconacquisto = tblcntcodiva001.idaliva&#13;&#10;left join tblveuritiro001 on tblveuritiro001.idveicolo = tblveuanveicoli001.idveicolo and tblveuanveicoli001.idazienda = tblveuritiro001.idazienda &#13;&#10;left join tblveuversioni001&#9;on tblveuanveicoli001.idmarca = tblveuversioni001.idmarca&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;and tblveuanveicoli001.idmodello = tblveuversioni001.idmodello&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;and tblveuanveicoli001.idversione = tblveuversioni001.idversione&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;and coalesce(tblveuversioni001.fondati,'E') not in ('EX','4R')&#13;&#10;left join tbldfncausali001 on tblveuanveicoli001.idcauritiro = tbldfncausali001.idcausale &#13;&#10;&quot;&#13;&#10;+ (globalMap.get(&quot;conditionStoric&quot;)!=null &amp;&amp; ((String)globalMap.get(&quot;conditionStoric&quot;)).equals(&quot;true&quot;) ? &quot;AND  &quot;+((String)globalMap.get(&quot;entityStoricControl&quot;))+&quot; BETWEEN (CURRENT_DATE - INTERVAL ' &quot;+((String)globalMap.get(&quot;num_GG_Storic&quot;))+&quot; days')::date AND CURRENT_DATE&quot; : &quot;&quot;)&#13;&#10;+ &quot; order by tblveuanveicoli001.sys_datulmodifica&#9; desc &quot;"/>
+    <elementParameter field="MEMO_SQL" name="QUERY" value="&quot;select &#13;&#10;tblveuanveicoli001.idveicolo,&#13;&#10;tblveuanveicoli001.telaio,&#13;&#10;tblveuanveicoli001.tarattuale &#9;&#9;&#9;&#9;as targa,&#13;&#10;'101'&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;as marchio_id,&#13;&#10;tblveuanveicoli001.desmarca&#9;&#9;&#9;&#9;&#9;as marca,&#13;&#10;tblveuanveicoli001.desmodello&#9;&#9;&#9;&#9;as modello,&#13;&#10;tblveuanveicoli001.desversione&#9;&#9;&#9;&#9;as versione,&#13;&#10;case when tblveuversioni001.idversione is null &#13;&#10;                then tblveuanveicoli001.idversione&#9;&#9;&#9;&#9;&#9;&#9;&#13;&#10;                else tblveuversioni001.idmarca || '|' || tblveuversioni001.idmodello || '|' || tblveuversioni001.idversione &#13;&#10;end&#9;&#9;&#9;as idversione,&#13;&#10;tblveuanveicoli001.idalimentazione,&#13;&#10;tblveuanveicoli001.cilindrata,&#13;&#10;tblveuanveicoli001.cavalli,&#13;&#10;tblveuanveicoli001.cavfiscali,&#13;&#10;tblveuanveicoli001.kilowatt,&#13;&#10;tblveuanveicoli001.idcambio&#9;&#9;&#9;&#9;&#9;as cambio,&#13;&#10;tblveuanveicoli001.idbodstyle,&#13;&#10;tblveusegmenti001.descrizione &#9;&#9;&#9;&#9;as segmento,&#13;&#10;tblveuanveicoli001.idstato,&#13;&#10;/*flcommerciale=6,7,8 -&gt; Remarketing, iddescommerciale = 5 -&gt; Speciali, altrimenti Usato*/&#13;&#10;tblveuanveicoli001.flcommerciale,&#13;&#10;case &#9;when tblveuanveicoli001.flcommerciale in (6,7,8) then 'REMARKETING'&#13;&#10;&#9;&#9;    when tblveuanveicoli001.iddescommerciale = 5 &#9; then 'SPECIALI'&#13;&#10;&#9;&#9;else 'USATO'&#13;&#10;end &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;as tipo_vendita,&#13;&#10;case &#9;when tblveuanveicoli001.flcommerciale = 1 then 'EXTRA COMM.'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 2 then 'DEMO'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 6 then 'KM 0'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 7 then 'AZIENDALE'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 8 then 'REMARKETING'&#13;&#10;&#9;&#9;when tblveuanveicoli001.flcommerciale = 9 then 'BUY BACK'&#13;&#10;&#9;&#9;else 'GENERICO'&#13;&#10;end &#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;as tipo_veicolo, /*Campo &lt;Categoria&gt; della scheda veicolo*/&#13;&#10;tblveuanveicoli001.iddescommerciale,&#13;&#10;case &#9;when tblveuanveicoli001.iddescommerciale = 4  &#9; then 'COMMERCIANTE'&#13;&#10;&#9;&#9;when tblveuanveicoli001.iddescommerciale = 5 &#9; then 'FLOTTE'&#13;&#10;&#9;&#9;else 'RETAIL'&#13;&#10;end&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;as tipo_cliente,&#13;&#10;tblveudescommerciali001.descrizione &#9;&#9;AS descommerciale,&#13;&#10;tblveuanveicoli001.fldisvendita,&#13;&#10;tblveuanveicoli001.datprimmatricolazione&#9;as datimmatricolazione,&#13;&#10;tblveuanveicoli001.km,&#13;&#10;tblveuanveicoli001.kmeffettivi,&#13;&#10;tblveuanveicoli001.idsede &#9;&#9;&#9;&#9;&#9;AS ritiro_idsede,&#13;&#10;tblveuanveicoli001.idvenditore &#9;&#9;&#9;&#9;AS ritiro_idvenditore,&#13;&#10;tblveuritiro001.valritiro&#9;&#9;&#9;&#9;&#9;as ritiro_valore,&#13;&#10;tblveuanveicoli001.idcauritiro&#9;&#9;&#9;&#9;as ritiro_idcausale,&#13;&#10;tbldfncausali001.descrizione           as ritiro_causale, -- &#13;&#10;tblcntcodiva001.aliquota&#9;&#9;&#9;&#9;&#9;as ritiro_iva,&#13;&#10;tblveuanveicoli001.datprritiro&#9;&#9;&#9;&#9;as ritiro_datprevista,&#13;&#10;tblveuritiro001.datritiro&#9;&#9;&#9;&#9;&#9;as ritiro_data,&#13;&#10;tblveuanveicoli001.imdanveicolo&#9;&#9;&#9;&#9;as ritiro_importoperizia,&#13;&#10;tblveuanveicoli001.imritdanveicolo  &#9;&#9;as ritiro_importocontroperizia,&#13;&#10;case when tblveuanveicoli001.idmovenstatistico = 0 then '0_Non definito'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 1 then '1_Ex-TTHolding'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 2 then '2_Acquisto diretto da privato'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 4 then '4_Acquisto diretto commerciale'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 9 then '9_Acquisto diretto da casa madre'&#13;&#10;when tblveuanveicoli001.idmovenstatistico = 11 then '12_Permuta ufficio acquisti'&#13;&#10;else 'Non valorizzato' end as codice_statistica_entrata,&#13;&#10;tblveuritiro001.datfatvendita&#9;&#9;&#9;&#9;as data_fattura_acquisto, --&#13;&#10;tblveuritiro001.numfatvendita&#9;&#9;&#9;&#9;as fattura_acquisto, --&#13;&#10;tblveuanveicoli001.previstorealizzo,&#13;&#10;tblveuanveicoli001.prconacquisto&#9;&#9;&#9;as prezzo_concordato,&#13;&#10;case when tblveufotveicolo001.fotfrontale is null&#13;&#10;&#9;and tblveufotveicolo001.fotlaterale is null&#13;&#10;&#9;and tblveufotveicolo001.fotangolata is null then 'N' &#13;&#10;&#9;else 'S' end as flg_foto,&#13;&#10;tblveuanveicoli001.sys_datulmodifica&#9;&#9;as datmodif_veuanveicoli,&#13;&#10;tblveuritiro001.sys_datulmodifica&#9;&#9;&#9;as datmodif_veuritiro,&#13;&#10;tblveudescommerciali001.sys_datulmodifica&#9;as datmodif_veudescommerciali,&#13;&#10;tblveusegmenti001.sys_datulmodifica&#9;&#9;&#9;as datmodif_veusegmenti,&#13;&#10;tblcntcodiva001.sys_datulmodifica&#9;&#9;&#9;as datmodif_cntcodiva&#13;&#10;from tblveuanveicoli001&#13;&#10;left join tblveusegmenti001 on tblveuanveicoli001.idsegmento = tblveusegmenti001.idsegmento&#13;&#10;left join tblveudescommerciali001 on tblveuanveicoli001.iddescommerciale = tblveudescommerciali001.iddescommerciale&#13;&#10;left join tblcntcodiva001 on tblveuanveicoli001.codivaconacquisto = tblcntcodiva001.idaliva&#13;&#10;left join tblveuritiro001 on tblveuritiro001.idveicolo = tblveuanveicoli001.idveicolo and tblveuanveicoli001.idazienda = tblveuritiro001.idazienda &#13;&#10;left join tblveuversioni001&#9;on tblveuanveicoli001.idmarca = tblveuversioni001.idmarca&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;and tblveuanveicoli001.idmodello = tblveuversioni001.idmodello&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;and tblveuanveicoli001.idversione = tblveuversioni001.idversione&#13;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;&#9;and coalesce(tblveuversioni001.fondati,'E') not in ('EX','4R')&#13;&#10;left join tbldfncausali001 on tblveuanveicoli001.idcauritiro = tbldfncausali001.idcausale &#13;&#10;left join tblveufotveicolo001 on tblveufotveicolo001.idveicolo =tblveuanveicoli001.idveicolo &#13;&#10;&quot;&#13;&#10;+ (globalMap.get(&quot;conditionStoric&quot;)!=null &amp;&amp; ((String)globalMap.get(&quot;conditionStoric&quot;)).equals(&quot;true&quot;) ? &quot;AND  &quot;+((String)globalMap.get(&quot;entityStoricControl&quot;))+&quot; BETWEEN (CURRENT_DATE - INTERVAL ' &quot;+((String)globalMap.get(&quot;num_GG_Storic&quot;))+&quot; days')::date AND CURRENT_DATE&quot; : &quot;&quot;)&#13;&#10;+ &quot; order by tblveuanveicoli001.sys_datulmodifica&#9; desc &quot;"/>
     <elementParameter field="LABEL" name="NOTE" value="This option only applies when deploying and running in the Talend Runtime"/>
     <elementParameter field="CHECK" name="SPECIFY_DATASOURCE_ALIAS" value="false"/>
     <elementParameter field="TEXT" name="DATASOURCE_ALIAS" show="false" value="&quot;&quot;"/>
@@ -314,6 +314,8 @@
       <elementValue elementRef="TRIM" value="false"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="prezzo_concordato"/>
       <elementValue elementRef="TRIM" value="false"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="flg_foto"/>
+      <elementValue elementRef="TRIM" value="false"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="datmodif_veuanveic"/>
       <elementValue elementRef="TRIM" value="false"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="datmodif_veuritiro"/>
@@ -370,6 +372,7 @@
       <column comment="" key="false" length="50" name="fatacquisto" nullable="true" originalLength="50" pattern="" precision="0" sourceType="BPCHAR" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="11" name="previstorealizzo" nullable="true" originalLength="11" pattern="" precision="2" sourceType="NUMERIC" type="id_BigDecimal" usefulColumn="true"/>
       <column comment="" key="false" length="11" name="prezzo_concordato" nullable="true" originalLength="11" pattern="" precision="2" sourceType="NUMERIC" type="id_BigDecimal" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="flg_foto" nullable="true" originalLength="10" pattern="" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="29" name="datmodif_veuanveic" nullable="true" originalLength="29" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="0" sourceType="TIMESTAMP" type="id_Date" usefulColumn="true"/>
       <column comment="" key="false" length="29" name="datmodif_veuritiro" nullable="true" originalLength="29" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="0" sourceType="TIMESTAMP" type="id_Date" usefulColumn="true"/>
       <column comment="" key="false" length="29" name="datmodif_veudescomm" nullable="true" originalLength="29" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="0" sourceType="TIMESTAMP" type="id_Date" usefulColumn="true"/>
@@ -435,10 +438,11 @@
       <column comment="" key="false" length="50" name="fatacquisto" nullable="true" originalLength="50" pattern="" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="11" name="previstorealizzo" nullable="true" originalLength="11" pattern="" precision="2" sourceType="" type="id_BigDecimal" usefulColumn="true"/>
       <column comment="" key="false" length="11" name="prezzoconcordato" nullable="true" originalLength="11" pattern="" precision="2" sourceType="" type="id_BigDecimal" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="flg_foto" nullable="true" originalLength="10" pattern="" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="29" name="ds_ultimamodifica" nullable="true" originalLength="29" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="0" sourceType="" type="id_Date" usefulColumn="true"/>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties/>
+      <uiProperties shellMaximized="true"/>
       <varTables name="Var" sizeState="INTERMEDIATE"/>
       <outputTables name="output_VEICOLO_USATO" sizeState="INTERMEDIATE">
         <mapperTableEntries expression="input__VEICOLO_USATO.idveicolo" name="idveicolo" nullable="true" type="id_BigDecimal"/>
@@ -483,6 +487,7 @@
         <mapperTableEntries expression="input__VEICOLO_USATO.fatacquisto " name="fatacquisto" nullable="true" type="id_String"/>
         <mapperTableEntries expression="input__VEICOLO_USATO.previstorealizzo " name="previstorealizzo" nullable="true" type="id_BigDecimal"/>
         <mapperTableEntries expression="input__VEICOLO_USATO.prezzo_concordato " name="prezzoconcordato" nullable="true" type="id_BigDecimal"/>
+        <mapperTableEntries expression="input__VEICOLO_USATO.flg_foto " name="flg_foto" nullable="true" type="id_String"/>
         <mapperTableEntries expression="UtilDate.getMostRecentDate(  input__VEICOLO_USATO.datmodif_veuanveic ,&#13;&#10;input__VEICOLO_USATO.datmodif_veuritiro,&#13;&#10;input__VEICOLO_USATO.datmodif_veudescomm,&#10;input__VEICOLO_USATO.datamodif_cntcodiva ,&#10;input__VEICOLO_USATO.datamodif_veusegm ) " name="ds_ultimamodifica" nullable="true" type="id_Date"/>
       </outputTables>
       <inputTables lookupMode="LOAD_ONCE" matchingMode="UNIQUE_MATCH" name="input__VEICOLO_USATO" sizeState="INTERMEDIATE">
@@ -528,6 +533,7 @@
         <mapperTableEntries name="fatacquisto" nullable="true" type="id_String"/>
         <mapperTableEntries name="previstorealizzo" nullable="true" type="id_BigDecimal"/>
         <mapperTableEntries name="prezzo_concordato" nullable="true" type="id_BigDecimal"/>
+        <mapperTableEntries name="flg_foto" nullable="true" type="id_String"/>
         <mapperTableEntries name="datmodif_veuanveic" nullable="true" type="id_Date"/>
         <mapperTableEntries name="datmodif_veuritiro" nullable="true" type="id_Date"/>
         <mapperTableEntries name="datmodif_veudescomm" nullable="true" type="id_Date"/>
@@ -610,6 +616,7 @@
       <column comment="" key="false" length="50" name="fatacquisto" nullable="true" originalLength="50" pattern="" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="11" name="previstorealizzo" nullable="true" originalLength="11" pattern="" precision="2" sourceType="" type="id_BigDecimal" usefulColumn="true"/>
       <column comment="" key="false" length="11" name="prezzoconcordato" nullable="true" originalLength="11" pattern="" precision="2" sourceType="" type="id_BigDecimal" usefulColumn="true"/>
+      <column comment="" key="false" length="10" name="flg_foto" nullable="true" originalLength="10" pattern="" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
       <column comment="" key="false" length="29" name="ds_ultimamodifica" nullable="true" originalLength="29" pattern="&quot;dd-MM-yyyy HH:mm:ss&quot;" precision="0" sourceType="" type="id_Date" usefulColumn="true"/>
     </metadata>
   </node>
@@ -643,7 +650,7 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="context.ORACLE_CLOUD_Url"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:1A2VSxNppGRB8insKQTWUYO648TXQQ74ew/V8AmVcZikrGfxsTAihtmj/LhhgbeD4CHzKbhp6A9P"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:3JhspnPQi5IxgXiLQYIB4dQ3n1bXJniNdsRohskPSnAljRMtD+oZBFqKfOu//8pENm6QwGyjfQUL"/>
     <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@talend&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
@@ -705,7 +712,7 @@
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:Y06joPVMJUMW4L6S+egT5a952zYVaBlY3gr5OSS1NfMAPoAlrXtfvWggns6mhgw5M5Lml98I7m4i"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:fLnLJ4YrmdcJ0nYvHPeYVvSsm17qEZ6tkWETZLw0+8yRYa2zM/46CHv1DDAMCSWGh1pptwAou2sN"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -767,7 +774,7 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="context.ORACLE_CLOUD_Url"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:b+gPrCF1SDdWeulH1/aB5t/Y5QD58xKZvy1GvsKtiP4pT/KzYzrPS0NzsktkSoGtUhUPbJ46zC/L"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:hvv6lUKg9iaOu7vvFVFG026iY4DiZ0TX7iMNvoahB3UY4sU0641BZBn4qD4okrAuq1CPZNkhNN8D"/>
     <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@talend&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
@@ -844,7 +851,7 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TABLESCHEMA" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:wKCaoPUF9gIT5Cm0oScrzfKjmeVUz80GUDV6v7qf"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:J0DFB8fGeT913eFJuC+5WRD6b2vqhsYTyoMrGpUq"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;TAL_JOB_PROCESS&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="NONE"/>
     <elementParameter field="LABEL" name="NOTE" show="false" value="Warning : this component configuration will automatically generate a commit before data insert/update/delete"/>
@@ -941,7 +948,7 @@
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:lUHW9W5Bh167sqeONDMP3nGyc5JR81nLr4PzUWr0CKa/6YcXHfvY/7ewTSdL4cI1WwcVoX2jwCr7"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:IHW55tJYXDi+khil6TH+oUgamC9mDDLw+WvAknZLdmKrTsyLmJgFS9JWqY3N2QL5FZ5eKL1rN4zt"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -987,7 +994,7 @@
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
     <elementParameter field="TEXT" name="USER" show="false" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:UKw0JtWUsJ8cKeUYV3Gc80dA+Ceoyy51OojyzT4euKT43jyzKGohpcCGYuC4jzCCj0Rqq6WGChar"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:MB3XkW8ex8G/t1O10IxpPednTkhC8maUSI/UrTVF32AQ5lYL1r9fDxgrg6Vz02ajnP44RIySlEll"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;&quot;"/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
     <elementParameter field="TECHNICAL" name="QUERYSTORE:REPOSITORY_QUERYSTORE_TYPE" show="false" value=""/>
@@ -1063,13 +1070,13 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" value="context.ORACLE_CLOUD_Username"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:BikQXpMxirWt2bqXbAvH/9xxXtxhuI2ukIi2lcH1HmVkgK0qlrnyHJru2QNgtoCvZ3s8AFwkihCE"/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:FRPrDQJD0KmoJFWbzFyjMq3/UwJXuxsoAkTzCsgOnb65KHSZzORjJn49iNw2oJsqDqhjKSfnMKbc"/>
     <elementParameter field="CHECK" name="USE_SSL" value="false"/>
     <elementParameter field="FILE" name="SSL_TRUSTSERVER_TRUSTSTORE" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="SSL_TRUSTSERVER_PASSWORD" show="false" value="enc:system.encryption.key.v1:14hSBOzvBiWEUfhyzOHydA5kvg4gnmvCnUfNk0jA"/>
+    <elementParameter field="PASSWORD" name="SSL_TRUSTSERVER_PASSWORD" show="false" value="enc:system.encryption.key.v1:pNMHuxP9sGU9KCcl/M0Te3MRuCTMjsAnfYaVuiiQ"/>
     <elementParameter field="CHECK" name="NEED_CLIENT_AUTH" show="false" value="false"/>
     <elementParameter field="FILE" name="SSL_KEYSTORE" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="SSL_KEYSTORE_PASSWORD" show="false" value="enc:system.encryption.key.v1:232idKTpW4Oyd6X2bX5UpxzoixrLBuEN1+UHzN1u"/>
+    <elementParameter field="PASSWORD" name="SSL_KEYSTORE_PASSWORD" show="false" value="enc:system.encryption.key.v1:79eCbBxaOAMD1soU6pKwiH24CQ28O5TSCJvU56z8"/>
     <elementParameter field="CHECK" name="DISABLE_CBC_PROTECTION" show="false" value="true"/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
@@ -1099,7 +1106,7 @@
     <elementParameter field="TEXT" name="LOCAL_SERVICE_NAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:oiC/YEmNfrWgMl+XCvqg0KLwfWB3XqE0qnCAKNk8"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:Kz+gh/sucf48c3/fKekyGKqFSBTVkkYaXkEJlGDF"/>
     <elementParameter field="TEXT" name="JDBC_URL" show="false" value="&quot;jdbc:oracle:oci:/@talend&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE" value=""/>
     <elementParameter field="QUERYSTORE_TYPE" name="QUERYSTORE" value="&quot;&quot;"/>
@@ -1393,6 +1400,9 @@
       <elementValue elementRef="TRACE_COLUMN" value="codstatisticaentrata"/>
       <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
       <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="flg_foto"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
     </elementParameter>
     <elementParameter field="CHECK" name="MONITOR_CONNECTION" value="false"/>
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="input__VEICOLO_USATO"/>
@@ -1544,6 +1554,9 @@
       <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
       <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
       <elementValue elementRef="TRACE_COLUMN" value="codstatisticaentrata"/>
+      <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
+      <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
+      <elementValue elementRef="TRACE_COLUMN" value="flg_foto"/>
       <elementValue elementRef="TRACE_COLUMN_CHECKED" value="true"/>
       <elementValue elementRef="TRACE_COLUMN_CONDITION" value=""/>
     </elementParameter>
@@ -1780,13 +1793,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" value="255;0;0"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_607e3884-a32c-4d9d-a852-a177c6a421f6"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>bYGzDlYNahxBOwrANzQM5Kk3c8BxgoAk2QnumjdFazUModSSVyLxU9SmNRaUu+UOkmXm2jjSXPne&#13;
-viKKBebRaQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_569a1350-7633-446c-b827-6a1c3338c1da"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>0hFU8Kufj10TPsMVtmwWB4EIDOIQAt+NbEGfMotFlKvQP2OBDzOdkfL332kjXwzkuV6UM41WFMSC&#13;
-+lqAt3XOxQ==</DigestValue></Reference></SignedInfo><SignatureValue>F/B5LeatVs/KyrfQM2lQuuLSX8ohR+nAUb4427mRbFXmz3peTpLywdq+FFK6QiG5urGBasf1b8cJ&#13;
-ZQwT1YpTj4b37FuTdHHv553N4V2jed5EJxLRpoJVBIA1dwqZPdJBxSaSyf5RQSo+da57UNGoQ9IV&#13;
-Ly0IhGtUibqppmAyXMdkoM1D/gDMhI60UXEgVOWse1xplBvbjJE/aAhA1pAcB3ZDET26m5ui3T3B&#13;
-52IBP5f/CGk9k6dD/KKtOX47xxrBiE9CtE8mzDGimRNowz8Dbtu+Mg3aSQCrbqw7A9zBWUcQch2L&#13;
-D5OKalEb8Y8i/ILlUlrFpvov2Vs9NC0CPJ0DTw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_dbd67abf-5366-46eb-9a94-e2beed2a2a06"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>1GC0Akml+CezizweVpzHogeD4vgCf/ICFevK09icsILF96vjdbx1FzzndpnTi44hY+czDHoG7Cyi&#13;
+FclklpUmJA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_cb24a0e9-1d4c-431d-b430-e0dfa4119202"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>zCCqZD5y9f1MLcS0goPg2GQJYyJeKOL/FPspWLGnsqUE5ZSa8GGvAW89DtSrGs+qNmqkxqm4E6/r&#13;
+Zz5MGmnTiw==</DigestValue></Reference></SignedInfo><SignatureValue>GfNQxQyXvSoJK1YjYT8BY7RoVsTPsAaslEV62nn7Wr8JpU/CLlKeotiC3xzfWots4RBPYsVTah+Z&#13;
+3qGr1dR3gtvedwUBp7bCIR4tKyhPqkyifkoKgSE2DhOrckJcRb5Tr8rNjiBr8thGvWeThOiMZoGP&#13;
+vtW2S2qWkVaI5jqd66g8HLM2FCS9R4yH53tZUvvYNdWscVC661pcJBjMczN3RkNxC9QdpSN4og50&#13;
+m7KR+WhCUWIs2pSAqPeKFx6eOISl4hdhCIpM4n/j3QY3XtDp3qWTgCAHb1bIBqqpzc6nwUuX3nVF&#13;
+p9RQfMAC3kqquumD3ICebl28ECpBkaMi4p5rlg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -1808,4 +1821,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_569a1350-7633-446c-b827-6a1c3338c1da" Target="#_607e3884-a32c-4d9d-a852-a177c6a421f6"><Timestamp>2022-09-22 16:37:25</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_cb24a0e9-1d4c-431d-b430-e0dfa4119202" Target="#_dbd67abf-5366-46eb-9a94-e2beed2a2a06"><Timestamp>2022-11-03 13:52:34</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
