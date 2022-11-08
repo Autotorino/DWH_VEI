@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
   <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_OLXKUDtKEe2exowhc0aWuw">
     <contextParameter comment="" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jdbc:oracle:thin:@dwhautosvil_medium?TNS_ADMIN=C:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh" xmi:id="_OLXKUTtKEe2exowhc0aWuw"/>
-    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:XbKOJJiF2BabySjV8rtl6i3rVXJdzqin6rYgeItO4OFdA5KgJpYVhYwf" xmi:id="_OLXKUjtKEe2exowhc0aWuw"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:UHiVr89pGk+GueExn1+JMzgRuONSTsnLXW5N4042hXV7M413EjMC8hZB" xmi:id="_OLXKUjtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DI_DATA_CONFIG" xmi:id="_OLXKUztKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/Talend/Talend-Output/DataSource/DWH_VEI/StorageFisico/" xmi:id="_OLXKVDtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_OLXKVTtKEe2exowhc0aWuw"/>
@@ -9,7 +9,7 @@
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PORT" prompt="DWH_AT_MAIL_SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="25" xmi:id="_OLXKVztKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_USER" prompt="DWH_AT_MAIL_SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_OLXKWDtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PWD" prompt="DWH_AT_MAIL_SMTP_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_OLXKWTtKEe2exowhc0aWuw"/>
-    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh_talend@autotorino.it;giovanni.pilutza@eng.it" xmi:id="_OLXKWjtKEe2exowhc0aWuw"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh_talend@autotorino.it" xmi:id="_OLXKWjtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_Path" prompt="ORACLE_CLOUD_OCI_Path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/Talend/Talend-ConfConnections/OracleCloud/OCI_Conf/conf" xmi:id="_OLXKWztKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_Profile" prompt="ORACLE_CLOUD_OCI_Profile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="OCI_ADMIN" xmi:id="_OLXKXDtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_NameSpace" prompt="ORACLE_CLOUD_OCI_NameSpace?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="frakb6w1jo8m" xmi:id="_OLXKXTtKEe2exowhc0aWuw"/>
@@ -21,7 +21,7 @@
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="prod" xmi:id="_OLXKYztKEe2exowhc0aWuw">
     <contextParameter comment="" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jdbc:oracle:thin:@autotorinodwh_medium?TNS_ADMIN=E:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh" xmi:id="_OLXKZDtKEe2exowhc0aWuw"/>
-    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:15OLN4FKXzZy1uuyAdFVI0leBoB8bfodQpkxCGKDVr/oHn56NzkK4PV3" xmi:id="_OLXKZTtKEe2exowhc0aWuw"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:eaaJQ9YmbCded570RV/NxS1BoXJ7pkiRjTRaCLbTmrjO5whttZnoQyuC" xmi:id="_OLXKZTtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DI_DATA_CONFIG" xmi:id="_OLXKZjtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/Talend/Talend-Output/DataSource/DWH_VEI/StorageFisico/" xmi:id="_OLXKZztKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_OLXKaDtKEe2exowhc0aWuw"/>
@@ -29,7 +29,7 @@
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PORT" prompt="DWH_AT_MAIL_SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="25" xmi:id="_OLXKajtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_USER" prompt="DWH_AT_MAIL_SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_OLXKaztKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PWD" prompt="DWH_AT_MAIL_SMTP_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_OLXKbDtKEe2exowhc0aWuw"/>
-    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh_talend@autotorino.it;giovanni.pilutza@eng.it" xmi:id="_OLXKbTtKEe2exowhc0aWuw"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh_talend@autotorino.it" xmi:id="_OLXKbTtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_Path" prompt="ORACLE_CLOUD_OCI_Path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/Talend/Talend-ConfConnections/OracleCloud/OCI_Conf/conf" xmi:id="_OLXKbjtKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_Profile" prompt="ORACLE_CLOUD_OCI_Profile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="OCI_ADMIN" xmi:id="_OLXKbztKEe2exowhc0aWuw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_NameSpace" prompt="ORACLE_CLOUD_OCI_NameSpace?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="frakb6w1jo8m" xmi:id="_OLXKcDtKEe2exowhc0aWuw"/>
@@ -41,7 +41,7 @@
   </talendfile:ContextType>
   <talendfile:ContextType confirmationNeeded="false" name="dev" xmi:id="_E8f4pGcCEeueAds_9cK-Pw">
     <contextParameter comment="" name="ORACLE_CLOUD_Url" prompt="ORACLE_CLOUD_Url?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="jdbc:oracle:thin:@dwhautosvil_medium?TNS_ADMIN=E:\\Talend\\Talend-ConfConnections\\OracleCloud\\Wallet_autotorinodwh" xmi:id="_E8f4pmcCEeueAds_9cK-Pw"/>
-    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:IJkf0FkYgoZ6zSgT5EcILmLy5EUq9VcwUFmmnXcr634jPO0TGwiVShme" xmi:id="_E8f4p2cCEeueAds_9cK-Pw"/>
+    <contextParameter comment="" name="ORACLE_CLOUD_Password" prompt="ORACLE_CLOUD_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:HL4e4qBqiydHJmrJ6iic6LjeR/ZlXCVhD572kQ9Tn03/0HLCRhiIO7rj" xmi:id="_E8f4p2cCEeueAds_9cK-Pw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_Username" prompt="ORACLE_CLOUD_Username?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DI_DATA_CONFIG" xmi:id="_E8f4qGcCEeueAds_9cK-Pw"/>
     <contextParameter comment="" name="TALEND_PATH_FILE_CSV" prompt="TALEND_PATH_FILE_CSV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/Talend/Talend-Output/DataSource/DWH_VEI/StorageFisico/" xmi:id="_E8f4qWcCEeueAds_9cK-Pw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_NOTIFY" prompt="DWH_AT_MAIL_NOTIFY?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="true" xmi:id="_E8f4qmcCEeueAds_9cK-Pw"/>
@@ -49,7 +49,7 @@
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PORT" prompt="DWH_AT_MAIL_SMTP_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="25" xmi:id="_E8f4rGcCEeueAds_9cK-Pw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_USER" prompt="DWH_AT_MAIL_SMTP_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_E8f4rWcCEeueAds_9cK-Pw"/>
     <contextParameter comment="" name="DWH_AT_MAIL_SMTP_PWD" prompt="DWH_AT_MAIL_SMTP_PWD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="" xmi:id="_E8f4rmcCEeueAds_9cK-Pw"/>
-    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh_talend@autotorino.it;giovanni.pilutza@eng.it" xmi:id="_E8f4r2cCEeueAds_9cK-Pw"/>
+    <contextParameter comment="" name="DWH_AT_MAIL_SMTP_DEST" prompt="DWH_AT_MAIL_SMTP_DEST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwh_talend@autotorino.it" xmi:id="_E8f4r2cCEeueAds_9cK-Pw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_Path" prompt="ORACLE_CLOUD_OCI_Path?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:/Talend/Talend-ConfConnections/OracleCloud/OCI_Conf/conf" xmi:id="_E8f4sGcCEeueAds_9cK-Pw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_Profile" prompt="ORACLE_CLOUD_OCI_Profile?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="OCI_ADMIN" xmi:id="_E8f4sWcCEeueAds_9cK-Pw"/>
     <contextParameter comment="" name="ORACLE_CLOUD_OCI_NameSpace" prompt="ORACLE_CLOUD_OCI_NameSpace?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="frakb6w1jo8m" xmi:id="_E8f4smcCEeueAds_9cK-Pw"/>
@@ -59,13 +59,13 @@
     <contextParameter comment="" name="TALEND_PATH_LOG" prompt="TALEND_PATH_LOG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="E:\\Talend\\RemoteEngine\\TalendJobServersFiles\\repository\\Talend-Output\\Log\\DWH_VEI" xmi:id="_o7fjgmcPEeuOyM0mOAEEGg"/>
     <contextParameter comment="" name="RESERVATION_PROCESS_ID" prompt="RESERVATION_PROCESS_ID?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="" xmi:id="_94ZAknzOEeuR8-i1yiXVhg"/>
   </talendfile:ContextType>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_965e5ccd-0955-4d78-99e2-e86721709396"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>pAKizRaOzEwuuyraBH9J0Vs7jBH+Ix0Y3N7M5ZgkUQKgfoE41X6HVFJxstq6qabXARK5BRxoqz1a&#13;
-a2U8Ud5XwQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_21524765-8b22-4f17-8c3e-feaa6dc8adca"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>nyhLGEWvvfo8zAajvTm16pcJwxZQ0gvmwx/UBFlSIeKEfPv5JzshP0V1k9kFcvsbK3vJsqfaYzCL&#13;
-O2bcPCcSDQ==</DigestValue></Reference></SignedInfo><SignatureValue>AJU3JWc+t+3gwwhX/NfFrZ+LFHwEqZzWZSiVZ5j0egZjZGJ2BwmcJi0pIRuu4U201AQS11bL118Q&#13;
-iWCbZRaiLrURDST7uB5G9875oB2aX7vDOxcGC9HiU/TchulxJfsK19Y4OtSby0Nmmj5Gsi4hGEuA&#13;
-aendKRp6Nf5bQEJ4TYe8PnC0XtJCWchjaqPdP77bFJr37FKebV+9uJDs0lAvM0L/L6+LgESus+72&#13;
-DjaWq8TcoUHBckRJR7E8nN7ieOs69uuN6H+j+zs+N7x9seSxmZZOrHyfSV97wUzUmfXq5+/LuJjn&#13;
-wm/MLyrTf0pF3nEq7dJ+YUiiTaJgfF19DTywoQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_db134625-9d76-4fd7-8580-d39744e03dab"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>qsnGP33fMA5He+A1sS1l/ZhwuH8nfujc8pdbeW4aINyLwgFfEtHYD+Ng19wJcZ0uPldkmDJSEcTR&#13;
+zEUoOje8Hw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_62895b69-22b7-482a-a9e1-f5b814eae656"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>NIS4LcxqqsvPPkfwqVfu3BjYNFCCGDh2eXITsnYJt/SllTPHMDiyrmgKZl1/ZOYk5sr2zuVv0kYe&#13;
+JbmKSpCQ9g==</DigestValue></Reference></SignedInfo><SignatureValue>JbrwaxJS/SJ07u+71SF3hb4JH6AvjbBbhfap+X1zJBE0phJZzcXks8SuVWACB7OBfFpftrYV8zqI&#13;
+gI4w4sCOjSeKU7AVHNCJBaRUpVIJHiYnFX0SwQO6Ld2t16t1Vo78A0Z+rqOv3dyipdw2ylCnZhgP&#13;
+r5Si38NCZlfRNECdusuFAovfWJmdXKTXSbgHxWzyD72Gw3KTcFjr4ZyJO/p2P6HwE0LuIHkrSeL4&#13;
+KMYX5TK2++dHCZwb4pOP7vGQqWNGVKz3ThFmE9BMkQVHO0hIi5JwtatWQBV4Oe9HAg+Krj7hYzp0&#13;
+tw1IFEVSCt4hikDeTeK34oQL9YzzbMq+J3R8Yg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -87,4 +87,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_21524765-8b22-4f17-8c3e-feaa6dc8adca" Target="#_965e5ccd-0955-4d78-99e2-e86721709396"><Timestamp>2022-09-23 14:15:48</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_62895b69-22b7-482a-a9e1-f5b814eae656" Target="#_db134625-9d76-4fd7-8580-d39744e03dab"><Timestamp>2022-11-08 14:34:13</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
